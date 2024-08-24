@@ -8,8 +8,8 @@ Dynamic city selection from a dropdown menu populated with data from a CSV file.
 Fetching and displaying weather data using the 7Timer API.
 Horizontal layout for forecast items to avoid vertical scrolling.
 Responsive design for better user experience on different devices.
-3. Description of Your Approach
-Approach and Thought Process:
+
+Description of Your and Thought Process:
 
 Planning:
 
